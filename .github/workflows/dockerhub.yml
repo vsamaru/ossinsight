@@ -23,7 +23,7 @@ jobs:
         uses: docker/login-action@v2
         with:
           username: dad2
-          password: Poiu0789_438744
+          password: Poiu0789_
       # Build and Push with GitHub Action Cache:
       # https://docs.docker.com/build/building/cache/backends/gha/#using-dockerbuild-push-action
       -
